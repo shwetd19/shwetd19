@@ -1,6 +1,8 @@
 # 💫 About Me:
 🔭 Full-stack developer with a passion for DevOps and application deployment.<br>👯 Looking to collaborate on DevOps projects.<br>🤝 Seeking help with developing a trust-worthy exam portal.<br>🌱 Currently learning Docker and Kubernetes.<br>💬 Ask me about application deployment!<br>⚡ Fun fact: I'm lazy but smart. 😉<br>📫 You can reach me here: shwetasdhake16@gmail.com
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shwetd19" alt="shwetd19" /></a> </p>
+
 
 ## 🌐 Socials:
  [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/__.shwet._/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/shwetas-dhake) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/shwetasd19) [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/Shwetas-Dhake) 
