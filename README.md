@@ -14,7 +14,7 @@
 - 🚀 Currently leading development on **[OpenMic.ai](https://openmic.ai/)** and **[PowerDialer.ai](https://powerdialer.ai/)** at **Attack Capital (YC-22)** — AI-powered voice-agent platforms for outbound calling
 - 🎙️ Building **[Chrome Buddy](https://www.chromebuddy.xyz/)** — a real-time AI voice assistant that lives in your browser's side panel
 - 🌱 Active **[OWASP](https://nest.owasp.org/members/shwetd19)** open-source contributor — merged PRs in LiveKit, CVAT, Creative Commons, OpenWISP, Wagtail.org, and more
-- 📦 Author of **react-marquee-with-tooltip**, an npm package used by 250+ developers
+- 📦 Author of **[react-marquee-with-tooltip](https://www.npmjs.com/package/react-marquee-with-tooltip)** — an npm package with **250+ weekly users**
 - 🏆 2nd place, Smart India Hackathon 2023 (Government of India)
 - 💬 Ask me about voice AI, real-time systems (WebRTC/LiveKit), or Node.js backend architecture
 - 📫 Reach me at **shwetasdhake16@gmail.com**
