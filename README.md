@@ -12,7 +12,6 @@
 ### 💫 About Me
 
 - 🚀 Currently leading development on **[OpenMic.ai](https://openmic.ai/)** and **[PowerDialer.ai](https://powerdialer.ai/)** at **Attack Capital (YC-22)** — AI-powered voice-agent platforms for outbound calling
-- 🎙️ Building **[Chrome Buddy](https://www.chromebuddy.xyz/)** — a real-time AI voice assistant that lives in your browser's side panel
 - 🌱 Active **[OWASP](https://nest.owasp.org/members/shwetd19)** open-source contributor — merged PRs in LiveKit, CVAT, Creative Commons, OpenWISP, Wagtail.org, and more
 - 📦 Author of **[react-marquee-with-tooltip](https://www.npmjs.com/package/react-marquee-with-tooltip)** — an npm package with **250+ weekly users**
 - 🏆 2nd place, Smart India Hackathon 2023 (Government of India)
@@ -25,7 +24,6 @@
 
 | Project | What it does |
 |---|---|
-| [Chrome Buddy](https://www.chromebuddy.xyz/) | Real-time voice AI assistant in the Chrome side panel — [repo](https://github.com/shwetd19/Chrome-Buddy) |
 | [Brotein Bistro](https://www.shwetas.dev/) | SaaS platform for cafe meal subscriptions, 300+ users |
 | NyayaSarathi | MERN case-flow management system, SIH 2023 |
 
